@@ -1,5 +1,2 @@
-
-cat > requirements.txt <<'REQ'
 python-telegram-bot==20.7
 Pillow
-REQ
