@@ -1,4 +1,3 @@
-cat > advanced_bot_full.py <<'PY'
 #!/usr/bin/env python3
 """
 Advanced Telegram group bot (PTB v20 compatible)
@@ -1019,4 +1018,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-PY
