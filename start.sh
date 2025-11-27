@@ -1,4 +1,3 @@
-cat > start.sh <<'SH'
 #!/bin/bash
 set -e
 set -x
